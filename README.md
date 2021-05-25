@@ -19,15 +19,15 @@ Seguimos el desarrollo de la teoría de Internet de Las Cosas del autor Francis 
 
 ## Sobre la conexión del hardware
 
-<div style="text-align: justify"> Después de definir los componentes de hardware y software necesarios para el proyecto, en esta etapa se explicará como se realiza la conexión del hardware mediante un diagrama esquematico. Inicialmente se conectarán los sensores HDC1008  y AP3216C a un módulo NodeMcu V3 para ESP826.
-La conexión del sensor con la placa requiere 8 cables. Podemos obtener energía del pin de 3V en la tarjeta NodeMcu. A continuación, se muestra la conexión utilizada: </div>
-
+Después de definir los componentes de hardware y software necesarios para el proyecto, en esta etapa se explicará como se realiza la conexión del hardware mediante un diagrama esquematico. Inicialmente se conectarán los sensores HDC1008  y AP3216C a un módulo NodeMcu V3 para ESP826. La conexión del sensor con la placa requiere 8 cables. Podemos obtener energía del pin de 3V en la tarjeta NodeMcu. A continuación, se muestra la conexión utilizada:
 - Conecte SCL a D1 
 - Conecte SDA a D2 
 - Conecte 3.3V a 3V 
 - Conecte GND a G
 
 <p align ="center" > <img src="https://github.com/kimberlyR31/Towards-the-development-of-homemade-urban-agriculture-products-using-the-internet-of-things/blob/main/Im%C3%A1genes/Diagrama%20esquematico%20del%20circuito.png" width="500" height="500" title="Image of Circuito Electronico"> </p>
+
+Para poder realizar la lectura y el promedio de los datos de humedad, temperatura y luz se deberá ejecutar en la carpeta de "Códigos Arduino" el codigo "Promedio de 3 Variables". El envío de estos datos al servidor se se realizan con el código "Con envío de trama".
 
 
 
