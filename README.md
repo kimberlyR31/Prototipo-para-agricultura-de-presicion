@@ -17,5 +17,6 @@ Acontinuación se muestra un listado requisitos mínimos que se necesitan para r
 
 Seguimos el desarrollo de la teoría de Internet de Las Cosas del autor Francis Da Costa, empleando un sistema de end device, collector y gateway integrados en un solo dispositivo (en este caso el microcontrolador NodeMCU junto con sus sensores y alimentación de energía). Se emplea un distribuidor, sistema de almacenamiento de base de datos, sistema de ETL (extracción transformación y carga) y un sistema de toma de decisiones con una visualización al usuario mediante página web y aplicación móvil, para este fin empleamos la nube de AWS (Amazon Web Services) desarrollando los servicios mediante máquinas virtuales y desarrollos en un framework por Python 3.8.
 
-![Image of Circuito Electronico](C:\Users\Neider\Desktop)
+<img src="C:\Users\Neider\Desktop" width="256" height="256" title="Image of Circuito Electronico">
+
 
