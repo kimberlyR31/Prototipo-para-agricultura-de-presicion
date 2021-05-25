@@ -1,6 +1,6 @@
  # <p align ="center" > Prototipo de Agricultura Urbana </p>
 
-<div style="text-align: justify"> Este proyecto se lleva a cabo para diseñar e implementar un sistema de monitoreo remoto en variables de interés en tiempo real con tecnología loT para cultivos urbanos para desarrollo interno. Con esta propuesta se propone un desarrollo de bajo costo para que los usuarios caseros colaboren para mitigar el cambio climático y traer alternativas alimentarias para todo aquel que quiera cultivar sus cultivos en sus propias casas. El código y los diseños son de acceso gratuito y están disponibles para su mejora. </div>
+Este proyecto se lleva a cabo para diseñar e implementar un sistema de monitoreo remoto en variables de interés en tiempo real con tecnología loT para cultivos urbanos para desarrollo interno. Con esta propuesta se propone un desarrollo de bajo costo para que los usuarios caseros colaboren para mitigar el cambio climático y traer alternativas alimentarias para todo aquel que quiera cultivar sus cultivos en sus propias casas. El código y los diseños son de acceso gratuito y están disponibles para su mejora.
 
 Acontinuación se muestra un listado requisitos mínimos que se necesitan para replicar exitosamente el proyecto.
 
