@@ -56,7 +56,7 @@ Este modelo de toma de decisiones se basa en un modelo de reglas de dos tipos:
 
 Son todas aquellas reglas que necesitan utilizar todo el histórico de datos para construir acciones o recomendaciones. Estas reglas marcan los hitos más importantes en el proceso del cultivo tales como la fecha de inicio de sembrado, la etapa en que se encuentra la planta o la fecha de cosecha para el cultivo. A continuación, se muestra el pseudocódigo de algunas reglas historias y cual sería el tipo de alerta que se notificaría.
 
-<p align ="center" > <img src="https://github.com/kimberlyR31/Towards-the-development-of-homemade-urban-agriculture-products-using-the-internet-of-things/blob/main/Im%C3%A1genes/Pseudoc%C3%B3digo%20de%20una%20regla%20hist%C3%B3rica.jpeg" width="500" height="500" title="Image of Circuito Electronico"> </p>
+<p align ="center" > <img src="https://github.com/kimberlyR31/Towards-the-development-of-homemade-urban-agriculture-products-using-the-internet-of-things/blob/main/Im%C3%A1genes/Pseudoc%C3%B3digo%20de%20una%20regla%20hist%C3%B3rica.jpeg" width="300" height="300" title="Image of Circuito Electronico"> </p>
 <p align ="center" > Imágen 4. Pseudocódigo de una regla histórica. </p>
 
 
