@@ -103,5 +103,7 @@ A continuación, se presentan tres gráficas que muestran el histórico de los d
 <br/>
 <br/>
 
-
+## Autores del Proyecto:
+- Kimberly Chozo Juárez 
+- Leonardo Betancur Agudelo
 
