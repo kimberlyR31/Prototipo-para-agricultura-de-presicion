@@ -61,23 +61,23 @@ Son todas aquellas reglas que necesitan utilizar todo el histórico de datos par
 
 <p align ="center" > <img src="https://github.com/kimberlyR31/Towards-the-development-of-homemade-urban-agriculture-products-using-the-internet-of-things/blob/main/Im%C3%A1genes/Pseudoc%C3%B3digo%20de%20una%20regla%20hist%C3%B3rica.jpeg" title="Image of Circuito Electronico"> </p>
 <p align ="center" > Imágen 4. Pseudocódigo de una regla histórica. </p>
-</br>
-</br>
-</br>
-</br>
+<br/>
+<br/>
+<br/>
+<br/>
 <p align ="center" > <img src="https://github.com/kimberlyR31/Towards-the-development-of-homemade-urban-agriculture-products-using-the-internet-of-things/blob/main/Im%C3%A1genes/Ejemplo%20de%20alerta%20generada%20por%20una%20regla%20hist%C3%B3rica.jpeg"> </p>
 <p align ="center" > Imágen 5.  Ejemplo de alerta generada por una regla histórica. </p>
 
 
 A continuación, se presentan tres gráficas que muestran el histórico de los datos recolectados por cada uno de los sensores tomando como ejemplo un cultivo de cilantro. Las gráficas muestran algunos picos en ciertas fechas debido a que como se encuentra en una fase de prototipo no se tienen continuas todas las mediciones. 
 
-<p align ="center" > <img src="https://github.com/kimberlyR31/Towards-the-development-of-homemade-urban-agriculture-products-using-the-internet-of-things/blob/main/Im%C3%A1genes/Historico%20de%20datos%20de%20Humedad.jpeg" title="Image of Circuito Electronico"> </p>
+<p align ="center" > <img src="https://github.com/kimberlyR31/Towards-the-development-of-homemade-urban-agriculture-products-using-the-internet-of-things/blob/main/Im%C3%A1genes/Historico%20de%20datos%20de%20Humedad.jpeg" width="600" height="250" title="Image of Circuito Electronico"> </p>
 <p align ="center" > Gráfica 1. Histórico de dato de Humendad. </p>
 
-<p align ="center" > <img src="https://github.com/kimberlyR31/Towards-the-development-of-homemade-urban-agriculture-products-using-the-internet-of-things/blob/main/Im%C3%A1genes/Historico%20de%20datos%20de%20Luz.jpeg" width="600" height="150" title="Image of Circuito Electronico"> </p>
+<p align ="center" > <img src="https://github.com/kimberlyR31/Towards-the-development-of-homemade-urban-agriculture-products-using-the-internet-of-things/blob/main/Im%C3%A1genes/Historico%20de%20datos%20de%20Luz.jpeg" width="600" height="250" title="Image of Circuito Electronico"> </p>
 <p align ="center" > Gráfica 2. Histórico de dato de Luz. </p>
 
-<p align ="center" > <img src="https://github.com/kimberlyR31/Towards-the-development-of-homemade-urban-agriculture-products-using-the-internet-of-things/blob/main/Im%C3%A1genes/Historico%20de%20datos%20de%20Temperatura.jpeg" width="500" height="500" title="Image of Circuito Electronico"> </p>
+<p align ="center" > <img src="https://github.com/kimberlyR31/Towards-the-development-of-homemade-urban-agriculture-products-using-the-internet-of-things/blob/main/Im%C3%A1genes/Historico%20de%20datos%20de%20Temperatura.jpeg" width="600" height="250" title="Image of Circuito Electronico"> </p>
 <p align ="center" > Gráfica 3. Histórico de dato de Temperatura. </p>
 
 
