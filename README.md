@@ -28,9 +28,6 @@ Después de definir los componentes de hardware y software necesarios para el pr
 <p align ="center" > <img src="https://github.com/kimberlyR31/Towards-the-development-of-homemade-urban-agriculture-products-using-the-internet-of-things/blob/main/Im%C3%A1genes/Diagrama%20esquematico%20del%20circuito.png" width="500" height="500" title="Image of Circuito Electronico"> </p>
 <p align ="center" > Imágen 1. Diagrama esquemático del circuito. </p>
 
-
-
-
 Para poder realizar la lectura y el promedio de los datos de humedad, temperatura y luz se deberá ejecutar en la carpeta de "Códigos Arduino" el código "Promedio de 3 Variables" en el programa arduino. El envío de estos datos al servidor se realiza con el código "Con envío de trama".
 
 La visualización de los datos se podrá realizar al ejecutar el código "Código en servidor" el cual es el encargado de recibir la trama que es enviada por los sensores, además de procesar y graficar dicha información.
@@ -44,6 +41,7 @@ Este modelo de toma de decisiones se basa en un modelo de reglas de dos tipos:
 ## - Las reglas instantáneas 
 
  Estas reglas se dan cuando se están midiendo la información de los sensores casi en tiempo real. Estas reglas son las acciones y recomendaciones inmediatas que requiere el cultivo. A continuación, se muestra el pseudocódigo de algunas reglas instantáneas y cuál sería el tipo de alerta que se notificaría.
+<br/>
 
  <p align ="center" > <img src="https://github.com/kimberlyR31/Towards-the-development-of-homemade-urban-agriculture-products-using-the-internet-of-things/blob/main/Im%C3%A1genes/Pseudoc%C3%B3digo%20de%20una%20regla%20instant%C3%A1nea.jpeg" title="Image of Circuito Electronico"> </p>
 <p align ="center" > Imágen 2. Pseudocódigo de una regla instantánea. </p>
@@ -57,6 +55,7 @@ Este modelo de toma de decisiones se basa en un modelo de reglas de dos tipos:
 ## -Las reglas históricas 
 
 Son todas aquellas reglas que necesitan utilizar todo el histórico de datos para construir acciones o recomendaciones. Estas reglas marcan los hitos más importantes en el proceso del cultivo tales como la fecha de inicio de sembrado, la etapa en que se encuentra la planta o la fecha de cosecha para el cultivo. A continuación, se muestra el pseudocódigo de algunas reglas historias y cual sería el tipo de alerta que se notificaría.
+<br/>
 
 <p align ="center" > <img src="https://github.com/kimberlyR31/Towards-the-development-of-homemade-urban-agriculture-products-using-the-internet-of-things/blob/main/Im%C3%A1genes/Pseudoc%C3%B3digo%20de%20una%20regla%20hist%C3%B3rica.jpeg" title="Image of Circuito Electronico"> </p>
 <p align ="center" > Imágen 4. Pseudocódigo de una regla histórica. </p>
@@ -71,9 +70,13 @@ A continuación, se presentan tres gráficas que muestran el histórico de los d
 
 <p align ="center" > <img src="https://github.com/kimberlyR31/Towards-the-development-of-homemade-urban-agriculture-products-using-the-internet-of-things/blob/main/Im%C3%A1genes/Historico%20de%20datos%20de%20Humedad.jpeg" width="600" height="280" title="Image of Circuito Electronico"> </p>
 <p align ="center" > Gráfica 1. Histórico de dato de Humendad. </p>
+<br/>
+<br/>
 
 <p align ="center" > <img src="https://github.com/kimberlyR31/Towards-the-development-of-homemade-urban-agriculture-products-using-the-internet-of-things/blob/main/Im%C3%A1genes/Historico%20de%20datos%20de%20Luz.jpeg" width="600" height="280" title="Image of Circuito Electronico"> </p>
 <p align ="center" > Gráfica 2. Histórico de dato de Luz. </p>
+<br/>
+<br/>
 
 <p align ="center" > <img src="https://github.com/kimberlyR31/Towards-the-development-of-homemade-urban-agriculture-products-using-the-internet-of-things/blob/main/Im%C3%A1genes/Historico%20de%20datos%20de%20Temperatura.jpeg" width="600" height="280" title="Image of Circuito Electronico"> </p>
 <p align ="center" > Gráfica 3. Histórico de dato de Temperatura. </p>
