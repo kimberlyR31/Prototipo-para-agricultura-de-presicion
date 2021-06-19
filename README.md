@@ -19,7 +19,6 @@ Seguimos el desarrollo de la teoría de Internet de Las Cosas del autor Francis 
 
 <p align ="center" > <img src="https://github.com/kimberlyR31/Towards-the-development-of-homemade-urban-agriculture-products-using-the-internet-of-things/blob/main/Im%C3%A1genes/Arquitectura%20IoT%20del%20proyecto.jpeg" width="600" height="300" title="Image of Circuito Electronico"> </p>
 <p align ="center" > Imágen 1. Arquitectura IoT del proyecto. </p>
-<br/>
 
 ## Sobre la conexión del hardware y envío de los datos
 
@@ -35,11 +34,14 @@ Después de definir los componentes de hardware y software necesarios para el pr
 
 Los datos generalmente se recopilan dentro del collector, se agrupan y se podan según sea necesario para la transmisión, y luego se envían generalmente a través de Internet tradicional. Para efectos del proyecto es la tarjeta NodeMCU la que cumple la función de collector. Existe tres procesos importantes que se realizan dentro del colector los cuales se explicarán a continuación. 
 
-1.	Collection: Proceso en el cual se realiza la captura de uno o varios datos que vienen puros de los sensores y se procesan, esto mediante la comunicación I2C. 
+## 1.	Collection:
+Proceso en el cual se realiza la captura de uno o varios datos que vienen puros de los sensores y se procesan, esto mediante la comunicación I2C. 
 
-2.	Pruning: Una de las capacidades importantes de los nodos propagadores es poder podar y optimizar las transmisiones. Los datos que pasan desde y hacia los dispositivos finales pueden combinarse con otro tráfico y enviarse en la dirección general de su "flecha" de transmisión. Aunque lo anterior describe la función genérica de los nodos propagadores, muchos también incorporarán una capacidad adicional importante: la capacidad de ser gestionados y "sintonizados" por funciones integradoras en la red.
+## 2.	Pruning: 
+Una de las capacidades importantes de los nodos propagadores es poder podar y optimizar las transmisiones. Los datos que pasan desde y hacia los dispositivos finales pueden combinarse con otro tráfico y enviarse en la dirección general de su "flecha" de transmisión. Aunque lo anterior describe la función genérica de los nodos propagadores, muchos también incorporarán una capacidad adicional importante: la capacidad de ser gestionados y "sintonizados" por funciones integradoras en la red.
 
-3.	Bundling: Es el paso que se realiza del collector al distribuidor.
+## 3.	Bundling: 
+Es el paso que se realiza del collector al distribuidor.
 
 Para poder realizar la lectura y el promedio de los datos de humedad, temperatura y luz se deberá ejecutar en la carpeta de "Códigos Arduino" el código "Promedio de 3 Variables" en el programa arduino. El envío de estos datos al servidor se realiza con el código "Con envío de trama".
 
