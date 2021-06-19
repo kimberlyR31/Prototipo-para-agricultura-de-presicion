@@ -45,7 +45,7 @@ Este modelo de toma de decisiones se basa en un modelo de reglas de dos tipos:
 
  Estas reglas se dan cuando se están midiendo la información de los sensores casi en tiempo real. Estas reglas son las acciones y recomendaciones inmediatas que requiere el cultivo. A continuación, se muestra el pseudocódigo de algunas reglas instantáneas y cuál sería el tipo de alerta que se notificaría.
 
- <p align ="center" > <img src="https://github.com/kimberlyR31/Towards-the-development-of-homemade-urban-agriculture-products-using-the-internet-of-things/blob/main/Im%C3%A1genes/Pseudoc%C3%B3digo%20de%20una%20regla%20instant%C3%A1nea.jpeg" width="500" height="300" title="Image of Circuito Electronico"> </p>
+ <p align ="center" > <img src="https://github.com/kimberlyR31/Towards-the-development-of-homemade-urban-agriculture-products-using-the-internet-of-things/blob/main/Im%C3%A1genes/Pseudoc%C3%B3digo%20de%20una%20regla%20instant%C3%A1nea.jpeg" title="Image of Circuito Electronico"> </p>
 <p align ="center" > Imágen 2. Pseudocódigo de una regla instantánea. </p>
 
 
@@ -61,10 +61,10 @@ Son todas aquellas reglas que necesitan utilizar todo el histórico de datos par
 
 <p align ="center" > <img src="https://github.com/kimberlyR31/Towards-the-development-of-homemade-urban-agriculture-products-using-the-internet-of-things/blob/main/Im%C3%A1genes/Pseudoc%C3%B3digo%20de%20una%20regla%20hist%C3%B3rica.jpeg" title="Image of Circuito Electronico"> </p>
 <p align ="center" > Imágen 4. Pseudocódigo de una regla histórica. </p>
-
-
-
-
+</br>
+</br>
+</br>
+</br>
 <p align ="center" > <img src="https://github.com/kimberlyR31/Towards-the-development-of-homemade-urban-agriculture-products-using-the-internet-of-things/blob/main/Im%C3%A1genes/Ejemplo%20de%20alerta%20generada%20por%20una%20regla%20hist%C3%B3rica.jpeg"> </p>
 <p align ="center" > Imágen 5.  Ejemplo de alerta generada por una regla histórica. </p>
 
@@ -74,7 +74,7 @@ A continuación, se presentan tres gráficas que muestran el histórico de los d
 <p align ="center" > <img src="https://github.com/kimberlyR31/Towards-the-development-of-homemade-urban-agriculture-products-using-the-internet-of-things/blob/main/Im%C3%A1genes/Historico%20de%20datos%20de%20Humedad.jpeg" title="Image of Circuito Electronico"> </p>
 <p align ="center" > Gráfica 1. Histórico de dato de Humendad. </p>
 
-<p align ="center" > <img src="https://github.com/kimberlyR31/Towards-the-development-of-homemade-urban-agriculture-products-using-the-internet-of-things/blob/main/Im%C3%A1genes/Historico%20de%20datos%20de%20Luz.jpeg" width="500" height="500" title="Image of Circuito Electronico"> </p>
+<p align ="center" > <img src="https://github.com/kimberlyR31/Towards-the-development-of-homemade-urban-agriculture-products-using-the-internet-of-things/blob/main/Im%C3%A1genes/Historico%20de%20datos%20de%20Luz.jpeg" width="600" height="150" title="Image of Circuito Electronico"> </p>
 <p align ="center" > Gráfica 2. Histórico de dato de Luz. </p>
 
 <p align ="center" > <img src="https://github.com/kimberlyR31/Towards-the-development-of-homemade-urban-agriculture-products-using-the-internet-of-things/blob/main/Im%C3%A1genes/Historico%20de%20datos%20de%20Temperatura.jpeg" width="500" height="500" title="Image of Circuito Electronico"> </p>
