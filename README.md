@@ -29,7 +29,7 @@ Después de definir los componentes de hardware y software necesarios para el pr
 - Conecte 3.3V a 3V 
 - Conecte GND a G
 
-<p align ="center" > <img src="https://github.com/kimberlyR31/Towards-the-development-of-homemade-urban-agriculture-products-using-the-internet-of-things/blob/main/Im%C3%A1genes/Diagrama%20esquematico%20del%20circuito.png" width="500" height="500" title="Image of Circuito Electronico"> </p>
+<p align ="center" > <img src="https://github.com/kimberlyR31/Towards-the-development-of-homemade-urban-agriculture-products-using-the-internet-of-things/blob/main/Im%C3%A1genes/Diagrama%20esquematico%20del%20circuito.png" title="Image of Circuito Electronico"> </p>
 <p align ="center" > Imágen 2. Diagrama esquemático del circuito. </p>
 <br/>
 
