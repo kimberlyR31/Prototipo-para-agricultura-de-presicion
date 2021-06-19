@@ -17,7 +17,7 @@ Acontinuación se muestra un listado requisitos mínimos que se necesitan para r
 
 Seguimos el desarrollo de la teoría de Internet de Las Cosas del autor Francis Da Costa, empleando un sistema de end device, collector y gateway integrados en un solo dispositivo (en este caso el microcontrolador NodeMCU junto con sus sensores y alimentación de energía). Se emplea un distribuidor, sistema de almacenamiento de base de datos, sistema de ETL (extracción transformación y carga) y un sistema de toma de decisiones con una visualización al usuario mediante página web y aplicación móvil. Para este fin empleamos la nube de AWS (Amazon Web Services) desarrollando los servicios mediante máquinas virtuales y desarrollos en un framework por Python 3.8.
 
-<p align ="center" > <img src="https://github.com/kimberlyR31/Towards-the-development-of-homemade-urban-agriculture-products-using-the-internet-of-things/blob/main/Im%C3%A1genes/Arquitectura%20IoT%20del%20proyecto.jpeg" width="500" height="500" title="Image of Circuito Electronico"> </p>
+<p align ="center" > <img src="https://github.com/kimberlyR31/Towards-the-development-of-homemade-urban-agriculture-products-using-the-internet-of-things/blob/main/Im%C3%A1genes/Arquitectura%20IoT%20del%20proyecto.jpeg" width="600" height="280" title="Image of Circuito Electronico"> </p>
 <p align ="center" > Imágen 1. Arquitectura IoT del proyecto. </p>
 <br/>
 
@@ -29,7 +29,7 @@ Después de definir los componentes de hardware y software necesarios para el pr
 - Conecte 3.3V a 3V 
 - Conecte GND a G
 
-<p align ="center" > <img src="https://github.com/kimberlyR31/Towards-the-development-of-homemade-urban-agriculture-products-using-the-internet-of-things/blob/main/Im%C3%A1genes/Diagrama%20esquematico%20del%20circuito.png" width="1200" height="280" title="Image of Circuito Electronico"> </p>
+<p align ="center" > <img src="https://github.com/kimberlyR31/Towards-the-development-of-homemade-urban-agriculture-products-using-the-internet-of-things/blob/main/Im%C3%A1genes/Diagrama%20esquematico%20del%20circuito.png" width="600" height="280" title="Image of Circuito Electronico"> </p>
 <p align ="center" > Imágen 2. Diagrama esquemático del circuito. </p>
 <br/>
 
